@@ -32,7 +32,7 @@ Real-time Communication: Socket.IO
 
 💻 Installation
 ```
-git clone https://github.com/your-username/peerpad.git
+git clone https://github.com/aavash514/peerpad.git
 cd peerpad
 npm install
 npm start
